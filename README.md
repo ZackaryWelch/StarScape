@@ -10,9 +10,15 @@ The data for hydata.json is taken from the HYG Database, which one can check out
 
 --
 Commands:
+
 go x,z
-Travese the x/z plane x units right/left and z units up/down. The y dimension is discarded, for now.
+
+   Travese the x/z plane x units right/left and z units up/down. The y dimension is discarded, for now.
+
 info key
-Print out the common name of the star indicated by it's key, or a-z/A-Z letter. If a common name dos not exist, than its HIP entry is provided.
+
+   Print out the common name of the star indicated by it's key, or a-z/A-Z letter. If a common name dos not exist, than its HIP entry is provided.
+
 exit
-Terminates the program
+
+   Terminates the program
